@@ -42,7 +42,7 @@ A steering committee member should be
 
 An existing maintainer can be nominated to join the steering committee by other steering committee members. The nomination is formally submitted as a PR to update the [TSC repo](./README.md). Nominations are approved by the steering committee.
 
-###  1d. Leaving the steering committee
+### 1d. Leaving the steering committee
 
 If a steering committee member can/will no longer perform their duties, they can be removed from the steering committee by the consensus of the rest of the steering committee members.
 
