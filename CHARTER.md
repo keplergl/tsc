@@ -6,7 +6,7 @@ kepler.gl believes that powerful geospatial analysis should be accessible to eve
 
 ## Section 1: Mission and Scope of the Project
 
-kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of [MapLibre GL](https://maplibre.org/) and [deck.gl](https://deck.gl/), it is also a React component that uses [Redux](https://redux.js.org/) to manage its state and data flow. kepler.gl enables analysts, engineers, and researchers to quickly render millions of points, aggregate and filter data interactively, and share their findings without writing code.
+kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of [deck.gl](https://deck.gl/) and [MapLibre GL](https://maplibre.org/), it is also a React component that uses [Redux](https://redux.js.org/) to manage its state and data flow. kepler.gl enables analysts, engineers, and researchers to quickly render millions of points, aggregate and filter data interactively, and share their findings without writing code.
 
 ### 1.1: In-scope
 
